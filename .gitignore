@@ -1,0 +1,9 @@
+# 本地主密钥缓存，绝不入库
+master.key
+master.key.bak
+
+# 构建产物
+app/build/
+*.app
+
+.DS_Store
